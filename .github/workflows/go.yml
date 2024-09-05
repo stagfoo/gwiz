@@ -12,6 +12,9 @@ on:
       release_body:
         description: 'Release Body'
         required: false
+permissions:
+  contents: write
+  packages: write
 
 jobs:
   build-and-release:
