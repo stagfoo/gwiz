@@ -1,0 +1,52 @@
+# Commit types configuration for Git Commit Wizard
+
+commit_types:
+  - id: "1"
+    emoji: "✨"
+    prefix: "feature:"
+    name: "feature"
+  
+  - id: "2"
+    emoji: "🍱"
+    prefix: "refactor:"
+    name: "refactor"
+  
+  - id: "3"
+    emoji: "🧼"
+    prefix: "chore:"
+    name: "chore"
+  
+  - id: "4"
+    emoji: "💿"
+    prefix: "asset:"
+    name: "asset"
+  
+  - id: "5"
+    emoji: "🐞"
+    prefix: "fix:"
+    name: "fix"
+  
+  - id: "6"
+    emoji: "🚀"
+    prefix: "release:"
+    name: "release"
+  
+  - id: "7"
+    emoji: "📚"
+    prefix: "docs:"
+    name: "docs"
+  
+  - id: "8"
+    emoji: "🤖"
+    prefix: "test:"
+    name: "test"
+  
+  - id: "9"
+    emoji: "🚓"
+    prefix: "security:"
+    name: "security"
+  
+  - id: "10"
+    emoji: "↩️"
+    prefix: "revert:"
+    name: "revert"
